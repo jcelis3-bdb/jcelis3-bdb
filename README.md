@@ -1,4 +1,11 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Jhonatan
+
+> [!IMPORTANT]
+> 📂 Este perfil ha sido creado **específicamente** para proyectos y colaboraciones dentro del [Banco de Bogotá](https://github.com/bancodebogota).  
+> :shipit: Si deseas conocer mi **perfil personal**, puedes visitar 👉 **[Jhonatan-celis](https://github.com/jhonatan-celis)**
+
+## 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=jcelis3-bdb&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=00317E&sideLabels=F6FAFF&currStreakNum=FFBE00&currStreakLabel=F6FAFF&excludeDaysLabel=B3B3B3&dates=EDF7FF&stroke=F6FAFF&fire=CC3232&ring=F6FAFF&sideNums=F6FAFF)](https://git.io/streak-stats)
 
 <!--
 **jcelis3-bdb/jcelis3-bdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
