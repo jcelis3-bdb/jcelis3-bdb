@@ -1,7 +1,5 @@
 # 👋 ¡Hola! Soy Jhonatan
 
-[![LinkedIn](https://img.shields.io/badge/-Conectar%20en%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-andres-celis-rincon/)
-
 > [!IMPORTANT]
 > 📂 Este perfil ha sido creado **específicamente** para proyectos y colaboraciones dentro del [Banco de Bogotá](https://github.com/bancodebogota).  
 > :shipit: Si deseas conocer mi **perfil personal**, puedes visitar 👉 **[Jhonatan-celis](https://github.com/jhonatan-celis)**
